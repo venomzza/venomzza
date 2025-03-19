@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="100" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style.png"  />
+<img align="right" height="120" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style.png"  />
 
 ###
 
