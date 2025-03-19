@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="100" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1742366134~exp=1742369734~hmac=6cf24b161b0d1d220dfeb4e2e4d6d1e7d19413be457884e752ace91251b0a039&w=826"  />
+<img align="right" height="100" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style.png"  />
 
 ###
 
