@@ -4,10 +4,17 @@
 </div>
 
 ###
-<img align="right" height="110" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style.png"  />
+
+<img align="left" height="100" src="hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style.png"  />
+
+###
+
+<img align="right" height="100" src="web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration.png"  />
+
 ###
 
 <img src="https://raw.githubusercontent.com/venomzza/venomzza/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="left">
